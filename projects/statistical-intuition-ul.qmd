@@ -1,0 +1,23 @@
+---
+title: Statistical Intuition and Applications (UL)
+subtitle: Course Redesign (Summer 2025)
+---
+
+## Context
+This redesign targets first-year Entrepreneurship & Innovation students with mixed math confidence. The goal was to make statistics feel actionable by grounding lessons in business scenarios and decision-making.
+
+## Learning goals (examples)
+- Interpret data summaries in plain language and connect them to business choices.
+- Use frequentist probability as a model of uncertainty from observed data.
+- Run guided notebook workflows and explain results to a non-technical audience.
+
+## Design decisions
+- **Consistent lesson rhythm:** PCW → Polls → Breakout → Closure to reduce cognitive load.
+- **Business-first framing:** every concept introduced through a realistic scenario.
+- **Scaffolded computation:** notebooks emphasize parameter changes + interpretation rather than blank-page coding.
+
+## Evidence
+```text
+Repository: https://github.com/Pasca3/Statistical-Intuition-UL
+Lesson sequence (24): https://github.com/Pasca3/Statistical-Intuition-UL/tree/main/01-lessons
+Featured demo (Session 07 notebooks): https://github.com/Pasca3/Statistical-Intuition-UL/tree/main/03-notebooks/session-07
