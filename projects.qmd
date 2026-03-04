@@ -1,0 +1,15 @@
+---
+title: Projects
+---
+
+## Statistical Intuition and Applications (UL) — Course Redesign (Summer 2025)
+
+A 24-session redesign focused on building statistical intuition through business-driven activities and reproducible Jupyter workflows.
+
+**Primary evidence (GitHub):**
+- Course repository (full sequence + artifacts)
+- Featured demo: Session 07 notebooks
+
+Course repo: https://github.com/Pasca3/Statistical-Intuition-UL
+Lesson index: https://github.com/Pasca3/Statistical-Intuition-UL/tree/main/01-lessons
+Session 07 notebooks: https://github.com/Pasca3/Statistical-Intuition-UL/tree/main/03-notebooks/session-07
